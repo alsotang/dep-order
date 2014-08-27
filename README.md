@@ -1,6 +1,8 @@
 dep-order
 =
 
+[![Build Status](https://travis-ci.org/alsotang/dep-order.svg?branch=master)](https://travis-ci.org/alsotang/dep-order)
+
 Installation
 ==
 
