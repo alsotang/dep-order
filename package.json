@@ -1,6 +1,6 @@
 {
   "name": "dep-order",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "DSL for dependence order ",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   "homepage": "https://github.com/alsotang/dep-order",
   "devDependencies": {
     "mocha": "^1.21.4",
-    "pegjs": "^0.8.0",
     "should": "^4.0.4"
   }
 }
